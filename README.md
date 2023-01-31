@@ -1,11 +1,11 @@
+# Image and Video colorization using Deep learning and OpenCV 
+
+<hr>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/88481845/215695216-7627029c-0257-44fb-83c3-73fd7ae84555.png">
 </div>
 
 <hr>
-
-# Image and Video colorization using Deep learning and OpenCV 
-
 Converting color images to black and white is quite easy using the OpenCV framework,but for converting black and white images to color we need to take a different approach. We need to add colors to black and white pixels using Deep Learning Neural Networks. Let’s first look at how the color information is represented in gray scale images and digital images.
 
 Gray scale image means the value of each pixel represents only the intensity information of the light. Such images commonly display only the darkest black to the brightest white. The image carries only black, white, and gray colors, in which gray has multiple levels.Each pixel typically consists of 8 bits(1byte) for gray scale images and there are 256 possible grayscale colors.
