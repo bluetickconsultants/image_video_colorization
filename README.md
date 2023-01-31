@@ -99,7 +99,7 @@ After collecting pretrained weights and using tensorflow and opencv we convert p
 ## Author
 
 - [Bluetick Consultants LLP](https://www.bluetickconsultants.com/)
-
+<img src="https://user-images.githubusercontent.com/88481845/215745914-16aa10a5-f24b-4fa9-b1be-432454487788.png" width="50%">
 
 
 
